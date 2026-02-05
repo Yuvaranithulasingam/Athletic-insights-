@@ -50,6 +50,20 @@ python athletix_insights.py
 4)  Generate personalized strategic recommendations for athletes.</BR>
 5)  Visualize insights in interactive dashboards.</BR>
 
+### Sample Output
+
+#### Dataset
+
+<img width="950" height="472" alt="image" src="https://github.com/user-attachments/assets/fbcc8a23-d00a-49fa-b830-d1c37bb8219f" />
+
+#### Athlete wise analysis
+
+<img width="935" height="574" alt="image" src="https://github.com/user-attachments/assets/54709377-190c-47a2-b5bb-6b897aebf596" />
+
+#### Country wise analysis
+
+<img width="944" height="480" alt="image" src="https://github.com/user-attachments/assets/e53ba30d-ba59-47c0-9f87-7d5e57fafb7c" />
+
 ### Future Enhancements
 
 -  Integrate live Olympic event data for real-time predictions.
